@@ -1,2 +1,14 @@
 [
+//    { "keys": ["F12"], "command": "reindent"},
+    { "keys": ["alt+up"], "command": "swap_line_up" },
+    { "keys": ["alt+down"], "command": "swap_line_down" },
+    { "keys": ["ctrl+alt+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+shift+up"], "command": "expand_region" },
+    { "keys": ["super+k", "n"], "command": "prompt_increment_number_with_padding" },
+    { "keys": ["ctrl+shift+down"], "command": "expand_region",
+        "args": {"undo": true}, "context": [{ "key": "expand_region_soft_undo" }] }
+
+    // { "button": "button1", "modifiers": ["alt"], "command": "goto_python_definition", "press_command": "drag_select" }
+
 ]
