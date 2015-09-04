@@ -1,0 +1,35 @@
+{
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"ExpandRegion",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Jade",
+		"LaTeXTools",
+		"LineEndings",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"RunCommand",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeJava",
+		"SublimeREPL",
+		"SVN",
+		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+		"https://github.com/nlloyd/SublimeMaven"
+	]
+}
