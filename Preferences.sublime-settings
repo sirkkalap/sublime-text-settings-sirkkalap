@@ -1,4 +1,22 @@
-// Settings in here override those in "Default/Preferences.sublime-settings", and
-// are overridden in turn by file type specific settings.
 {
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"enable_hexadecimal_encoding": false,
+	"font_size": 17.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"SVN",
+		"Vintage",
+		"SublimeCodeIntel"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"open_files_in_new_window": false,
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
