@@ -3,4 +3,5 @@
 set -e
 cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
 (mv User User_ || true)
-git clone https://github.com/sirkkalap/sublime-text-settings-sirkkalap.git User
+# git clone https://github.com/sirkkalap/sublime-text-settings-sirkkalap.git User
+git clone git@github.com:sirkkalap/sublime-text-settings-sirkkalap.git User
