@@ -1,0 +1,4 @@
+#!/bin/bash
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+mv User User_
+git clone https://github.com/sirkkalap/sublime-text-settings-sirkkalap.git User
