@@ -1,14 +1,15 @@
 {
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"enable_hexadecimal_encoding": false,
 	"font_size": 17.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"LineEndings",
+		"SublimeCodeIntel",
 		"SVN",
-		"Vintage",
-		"SublimeCodeIntel"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
