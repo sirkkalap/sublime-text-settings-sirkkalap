@@ -3,7 +3,8 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"LineEndings"
+		"CoffeeScript",
+		"RunCommand"
 	],
 	"installed_packages":
 	[
@@ -15,9 +16,7 @@
 		"Github Tools",
 		"Jade",
 		"LaTeXTools",
-		"LineEndings",
 		"Markdown Extended",
-		"Markdown Preview",
 		"Monokai Extended",
 		"Origami",
 		"Package Control",
@@ -27,7 +26,8 @@
 		"SublimeCodeIntel",
 		"SublimeREPL",
 		"SVN",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"MarkdownPreview"
 	],
 	"repositories":
 	[
