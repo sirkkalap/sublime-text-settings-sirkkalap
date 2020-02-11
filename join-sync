@@ -1,7 +1,4 @@
 #!/bin/bash
 # curl -sSL https://raw.githubusercontent.com/sirkkalap/sublime-text-settings-sirkkalap/master/join-sync | bash -x
-set -e
-cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-(mv User User_ || true)
-# git clone https://github.com/sirkkalap/sublime-text-settings-sirkkalap.git User
-git clone git@github.com:sirkkalap/sublime-text-settings-sirkkalap.git User
+
+echo See ~/proj/dotfiles-sirkkalap/sublimetext/conf-sync.sh
